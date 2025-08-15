@@ -22,4 +22,4 @@ jobs:
 
       - name: Notify deployment success
         if: success()
-        run: echo "🚀 Deployment to GitHub Pages was successful!"
+        run: echo "Success."
